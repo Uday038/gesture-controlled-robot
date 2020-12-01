@@ -1,4 +1,4 @@
-# gesture-controlled-robot
+# Gesture-Controlled-Robot
 
 Gesture recognition can be termed as an approach in this direction. It is the process by which the gestures made by the user are recognized by the receiver. Gestures are expressive, meaningful body motions involving physical movements of the fingers, hands, arms, head, face, or body with the intent of: 
 
